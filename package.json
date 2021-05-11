@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mj5543.github.io/react-router-tutorial",
-  "name": "react-router-tutorial",
+  "homepage": "https://mj5543.github.io/lalalol/",
+  "name": "lalalol",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +19,8 @@
   "scripts": {
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "start": "cross-env NODE_PATH=src react-scripts start",
-    "build": "cross-env NODE_PATH=src react-scripts build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
