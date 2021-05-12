@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/lalalol/static/css/main.91517070.chunk.css",
-    "main.js": "/lalalol/static/js/main.79665df8.chunk.js",
-    "main.js.map": "/lalalol/static/js/main.79665df8.chunk.js.map",
+    "main.css": "/lalalol/static/css/main.47ead7d2.chunk.css",
+    "main.js": "/lalalol/static/js/main.8f5ec63a.chunk.js",
+    "main.js.map": "/lalalol/static/js/main.8f5ec63a.chunk.js.map",
     "runtime-main.js": "/lalalol/static/js/runtime-main.f68e735f.js",
     "runtime-main.js.map": "/lalalol/static/js/runtime-main.f68e735f.js.map",
-    "static/js/2.1d0afa69.chunk.js": "/lalalol/static/js/2.1d0afa69.chunk.js",
-    "static/js/2.1d0afa69.chunk.js.map": "/lalalol/static/js/2.1d0afa69.chunk.js.map",
+    "static/css/2.61526bb2.chunk.css": "/lalalol/static/css/2.61526bb2.chunk.css",
+    "static/js/2.73fe1701.chunk.js": "/lalalol/static/js/2.73fe1701.chunk.js",
+    "static/js/2.73fe1701.chunk.js.map": "/lalalol/static/js/2.73fe1701.chunk.js.map",
     "index.html": "/lalalol/index.html",
-    "static/css/main.91517070.chunk.css.map": "/lalalol/static/css/main.91517070.chunk.css.map",
-    "static/js/2.1d0afa69.chunk.js.LICENSE.txt": "/lalalol/static/js/2.1d0afa69.chunk.js.LICENSE.txt"
+    "static/css/2.61526bb2.chunk.css.map": "/lalalol/static/css/2.61526bb2.chunk.css.map",
+    "static/css/main.47ead7d2.chunk.css.map": "/lalalol/static/css/main.47ead7d2.chunk.css.map",
+    "static/js/2.73fe1701.chunk.js.LICENSE.txt": "/lalalol/static/js/2.73fe1701.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f68e735f.js",
-    "static/js/2.1d0afa69.chunk.js",
-    "static/css/main.91517070.chunk.css",
-    "static/js/main.79665df8.chunk.js"
+    "static/css/2.61526bb2.chunk.css",
+    "static/js/2.73fe1701.chunk.js",
+    "static/css/main.47ead7d2.chunk.css",
+    "static/js/main.8f5ec63a.chunk.js"
   ]
 }
