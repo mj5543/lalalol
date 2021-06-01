@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lalalol/static/css/main.0dfe8dc6.chunk.css",
-    "main.js": "/lalalol/static/js/main.4c81d8c0.chunk.js",
-    "main.js.map": "/lalalol/static/js/main.4c81d8c0.chunk.js.map",
+    "main.css": "/lalalol/static/css/main.4b40abbb.chunk.css",
+    "main.js": "/lalalol/static/js/main.f21ae75e.chunk.js",
+    "main.js.map": "/lalalol/static/js/main.f21ae75e.chunk.js.map",
     "runtime-main.js": "/lalalol/static/js/runtime-main.f68e735f.js",
     "runtime-main.js.map": "/lalalol/static/js/runtime-main.f68e735f.js.map",
     "static/css/2.61526bb2.chunk.css": "/lalalol/static/css/2.61526bb2.chunk.css",
-    "static/js/2.5cdbb313.chunk.js": "/lalalol/static/js/2.5cdbb313.chunk.js",
-    "static/js/2.5cdbb313.chunk.js.map": "/lalalol/static/js/2.5cdbb313.chunk.js.map",
+    "static/js/2.81bc6bad.chunk.js": "/lalalol/static/js/2.81bc6bad.chunk.js",
+    "static/js/2.81bc6bad.chunk.js.map": "/lalalol/static/js/2.81bc6bad.chunk.js.map",
     "index.html": "/lalalol/index.html",
     "static/css/2.61526bb2.chunk.css.map": "/lalalol/static/css/2.61526bb2.chunk.css.map",
-    "static/css/main.0dfe8dc6.chunk.css.map": "/lalalol/static/css/main.0dfe8dc6.chunk.css.map",
-    "static/js/2.5cdbb313.chunk.js.LICENSE.txt": "/lalalol/static/js/2.5cdbb313.chunk.js.LICENSE.txt"
+    "static/css/main.4b40abbb.chunk.css.map": "/lalalol/static/css/main.4b40abbb.chunk.css.map",
+    "static/js/2.81bc6bad.chunk.js.LICENSE.txt": "/lalalol/static/js/2.81bc6bad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f68e735f.js",
     "static/css/2.61526bb2.chunk.css",
-    "static/js/2.5cdbb313.chunk.js",
-    "static/css/main.0dfe8dc6.chunk.css",
-    "static/js/main.4c81d8c0.chunk.js"
+    "static/js/2.81bc6bad.chunk.js",
+    "static/css/main.4b40abbb.chunk.css",
+    "static/js/main.f21ae75e.chunk.js"
   ]
 }
