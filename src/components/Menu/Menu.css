@@ -1,5 +1,28 @@
 .menu-container{
   width: 25%;
-  position: fixed;
+  /* position: fixed; */
+  float: left;
   height: 100%;
+  background: #ccc;
+  padding: 20px;
+}
+.nav-title {
+  color: #ffffff;
+  text-decoration: none;
+}
+.nav-title ul{
+  color: #ffffff;
+  text-decoration: none;
+}
+.nav-title li{
+  color: #ffffff;
+  text-decoration: none;
+}
+.nav-title:hover{
+  color: #ffffff;
+}
+.nav-sub{
+  background-color: midnightblue;
+  border: solid 10px;
+  border-radius: 30px;
 }

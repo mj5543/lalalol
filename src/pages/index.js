@@ -1,4 +1,10 @@
 export { default as Home } from './Home';
+export { default as Footer } from './Footer';
 export { default as About } from './About';
 export { default as Posts } from './Posts';
 export { default as Post } from './Post';
+export { default as Category1 } from './Category1';
+export { default as Category2 } from './Category2.js';
+export { default as Category3 } from './Category3';
+export { default as PostList } from '../components/Menu/sub/PostList';
+export { default as Sidebar } from '../components/Menu/Sidebar';

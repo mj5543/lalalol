@@ -1,0 +1,28 @@
+.resume h2 {
+  color: #444;
+  font-size: 30px;
+  margin: 20px 0px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.resume table tr th{
+  text-align: center;
+  vertical-align: middle;
+  font-size: 13px;
+}
+.resume table thead{
+  background-color: #f2f2f2;
+}
+.resume table tr td{
+  vertical-align: middle;
+}
+.content-dimmed{
+  height: 100%;
+  width: 100%;
+  background-color: #e4e4e4;
+  opacity: 0.9;
+  z-index: 25000;
+  position: absolute;
+  left: 303px;
+  top: 72px;
+}
