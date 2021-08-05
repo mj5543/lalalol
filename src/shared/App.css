@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.content-container{
+  width: 80%;
+  height: 100%;
+  float: right;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+.wp100 {
+  width: 100%;
+}
+.app-bottom {
+  width: 100%;
+  height: 60px;
+  background-color: #777;
+  padding: 10px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.app-container{
+  height: calc(100vh - 130px);
+}
+.app-header {
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  background-color: #282c34;
+}
+.content-dimmed{
+  height: 100%;
+  width: 100%;
+  background-color: #e4e4e4;
+  opacity: 0.4;
+  z-index: 25000;
+  position: absolute;
+  left: 20;
+}

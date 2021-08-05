@@ -1,0 +1,48 @@
+.plaid-gradient {
+  background:
+      repeating-linear-gradient(90deg, transparent, transparent 50px,
+        rgba(255, 127, 0, 0.25) 50px, rgba(255, 127, 0, 0.25) 56px,
+        transparent 56px, transparent 63px,
+        rgba(255, 127, 0, 0.25) 63px, rgba(255, 127, 0, 0.25) 69px,
+        transparent 69px, transparent 116px,
+        rgba(255, 206, 0, 0.25) 116px, rgba(255, 206, 0, 0.25) 166px),
+      repeating-linear-gradient(0deg, transparent, transparent 50px,
+        rgba(255, 127, 0, 0.25) 50px, rgba(255, 127, 0, 0.25) 56px,
+        transparent 56px, transparent 63px,
+        rgba(255, 127, 0, 0.25) 63px, rgba(255, 127, 0, 0.25) 69px,
+        transparent 69px, transparent 116px,
+        rgba(255, 206, 0, 0.25) 116px, rgba(255, 206, 0, 0.25) 166px),
+      repeating-linear-gradient(-45deg, transparent, transparent 5px,
+        rgba(143, 77, 63, 0.25) 5px, rgba(143, 77, 63, 0.25) 10px),
+      repeating-linear-gradient(45deg, transparent, transparent 5px,
+        rgba(143, 77, 63, 0.25) 5px, rgba(143, 77, 63, 0.25) 10px);
+
+  background:
+      repeating-linear-gradient(90deg, transparent 0 50px,
+        rgba(255, 127, 0, 0.25) 50px 56px,
+        transparent 56px 63px,
+        rgba(255, 127, 0, 0.25) 63px 69px,
+        transparent 69px 116px,
+        rgba(255, 206, 0, 0.25) 116px 166px),
+      repeating-linear-gradient(0deg, transparent 0 50px,
+        rgba(255, 127, 0, 0.25) 50px 56px,
+        transparent 56px 63px,
+        rgba(255, 127, 0, 0.25) 63px 69px,
+        transparent 69px 116px,
+        rgba(255, 206, 0, 0.25) 116px 166px),
+      repeating-linear-gradient(-45deg, transparent 0 5px,
+        rgba(143, 77, 63, 0.25) 5px 10px),
+      repeating-linear-gradient(45deg, transparent 0 5px,
+        rgba(143, 77, 63, 0.25) 5px 10px);
+}
+.color1-gradient {
+  background: rgb(249,237,210);
+  background: radial-gradient(circle, rgba(249,237,210,1) 0%, rgba(233,148,232,1) 100%);
+}
+.color2-gradient {
+  background: rgb(236,141,225);
+  background: -moz-radial-gradient(circle, rgba(236,141,225,1) 0%, rgba(235,226,236,0.9206057422969187) 50%, rgba(252,69,179,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(236,141,225,1) 0%, rgba(235,226,236,0.9206057422969187) 50%, rgba(252,69,179,1) 100%);
+  background: radial-gradient(circle, rgba(236,141,225,1) 0%, rgba(235,226,236,0.9206057422969187) 50%, rgba(252,69,179,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ec8de1",endColorstr="#fc45b3",GradientType=1);
+}
